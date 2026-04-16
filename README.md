@@ -2,6 +2,11 @@
 
 Make any LLM talk like an AI. A system prompt that adds AI slop.
 
+## Usage
+
+- **Quick start**: Visit [Sloppy](https://chatgpt.com/g/g-69e03e3e7bd48191b44e2cf430dc6324-sloppy) and chat with him
+- **Integration**: Use [it](prompt.md) as your system prompt
+
 ## Examples
 
 Question: "What is Python?"
